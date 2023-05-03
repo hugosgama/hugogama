@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, SQL, PySpark , DataBricks
 - 🌱 I’m currently learning Databricks
 - 💞️ I’m looking to collaborate on nothing at moment.
-- 📫 How to reach me @oguhgamaa on Twitter
+- 📫 How to reach me @oguhgama on Twitter
 
 <!---
 hugosgama/hugosgama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
